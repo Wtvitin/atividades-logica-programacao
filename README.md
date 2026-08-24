@@ -1,6 +1,30 @@
-# 📘 Atividades de Lógica de Programação
+<div align="center">
 
-Repositório com a resolução dos exercícios de **Lógica de Programação** da faculdade, baseados na apostila *"100 Exercícios de Lógica de Programação"*.
+<img src="assets/banner.png" alt="Atividades de Lógica de Programação" width="100%" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20andamento-38BDF8?style=for-the-badge)
+![Progresso](https://img.shields.io/badge/progresso-12%2F15-A78BFA?style=for-the-badge)
+![Instituição](https://img.shields.io/badge/Faculdade-Impacta-14213D?style=for-the-badge)
+
+</div>
+
+---
+
+## 👋 Sobre mim
+
+Sou o **Victor Samuel**, estudante de **Ciência da Computação** na **Faculdade Impacta**.
+Este repositório reúne as atividades práticas da disciplina de **Lógica de Programação**, resolvidas em Python conforme evoluo nos módulos da matéria.
+
+📫 [github.com/Wtvitin](https://github.com/Wtvitin)
+
+---
+
+## 📘 Sobre o repositório
+
+Repositório com a resolução dos exercícios de **Lógica de Programação**, baseados na apostila *"100 Exercícios de Lógica de Programação"*.
 
 Cada exercício fica em sua própria pasta, contendo:
 
@@ -14,7 +38,7 @@ Cada exercício fica em sua própria pasta, contendo:
 ## 📂 Módulo 01 — Primeiros Algoritmos
 
 | # | Exercício | Pasta | Status |
-|---|---|---|---|
+|:-:|---|---|:-:|
 | 01 | Soma de dois números | [`Exercicio 01`](<Exercicio 01 - Soma de dois numeros>) | ✅ |
 | 02 | Média de duas notas | [`Exercicio 02`](<Exercicio 02 - Media de duas notas>) | ✅ |
 | 03 | Antecessor e sucessor | [`Exercicio 03`](<Exercicio 03 - Antecessor e sucessor>) | ✅ |
@@ -31,7 +55,11 @@ Cada exercício fica em sua própria pasta, contendo:
 | 14 | Troca de valores | [`Exercicio 14`](<Exercicio 14 - Troca de valores>) | ✅ |
 | 15 | Custo final da compra | [`Exercicio 15`](<Exercicio 15 - Custo final da compra>) | ✅ |
 
-**Progresso:** 12 / 15 exercícios do módulo concluídos.
+<div align="center">
+
+**Progresso do módulo:** `████████████░░░` **12 / 15**
+
+</div>
 
 ---
 
@@ -44,10 +72,10 @@ cd "Exercicio 01 - Soma de dois numeros"
 python exercicio01.py
 ```
 
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
-
 ---
 
-*Repositório de estudos — uso acadêmico.*
+<div align="center">
+
+*Repositório de estudos — uso acadêmico.* 🎓
+
+</div>
