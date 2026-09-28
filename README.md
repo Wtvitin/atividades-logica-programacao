@@ -26,12 +26,12 @@ Este repositório reúne as atividades práticas da disciplina de **Lógica de P
 
 Repositório com a resolução dos exercícios de **Lógica de Programação**, baseados na apostila *"100 Exercícios de Lógica de Programação"*.
 
-Cada exercício fica em sua própria pasta, contendo:
+No **Módulo 01**, cada exercício fica em sua própria pasta, contendo:
 
 - 🐍 **Código-fonte** em Python (`.py`)
 - 🖼️ **Print** da execução no VSCode
 
-> 📝 Os fluxogramas foram desenhados à mão e serão adicionados como foto em cada pasta.
+> 📝 Os fluxogramas do Módulo 01 foram desenhados à mão e serão adicionados como foto em cada pasta.
 
 ---
 
@@ -63,13 +63,29 @@ Cada exercício fica em sua própria pasta, contendo:
 
 ---
 
+## 🧩 Módulo 02 — Funções e Módulos
+
+Nova lista com cinco exercícios independentes. [Veja os exemplos e a explicação do exercício de escopo](funcoes-e-modulos/README.md).
+
+| # | Exercício | Código | Status |
+|:-:|---|---|:-:|
+| 01 | Arredondamento e raiz quadrada | [Abrir Python](funcoes-e-modulos/exercicio01.py) | ✅ |
+| 02 | Área do círculo | [Abrir Python](funcoes-e-modulos/exercicio02.py) | ✅ |
+| 03 | Maior de três números | [Abrir Python](funcoes-e-modulos/exercicio03.py) | ✅ |
+| 04 | Escopo local e global | [Código e respostas](funcoes-e-modulos/exercicio04.py) | ✅ |
+| 05 | Cálculo de hipotenusa | [Abrir Python](funcoes-e-modulos/exercicio05.py) | ✅ |
+
+**Progresso do módulo:** `█████` **5 / 5**
+
+---
+
 ## ▶️ Como rodar
 
-Cada exercício é independente. Basta entrar na pasta e executar com Python 3:
+Cada exercício é independente. Execute com Python 3:
 
 ```bash
-cd "Exercicio 01 - Soma de dois numeros"
-python exercicio01.py
+python "Exercicio 01 - Soma de dois numeros/exercicio01.py"
+python funcoes-e-modulos/exercicio01.py
 ```
 
 ---
