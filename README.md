@@ -65,7 +65,7 @@ No **Módulo 01**, cada exercício fica em sua própria pasta, contendo:
 
 ## 🧩 Módulo 02 — Funções e Módulos
 
-Nova lista com cinco exercícios independentes. [Veja os exemplos e a explicação do exercício de escopo](funcoes-e-modulos/README.md).
+Cinco exercícios independentes e uma atividade prática do material didático sobre funções. [Veja os exemplos e a explicação do exercício de escopo](funcoes-e-modulos/README.md).
 
 | # | Exercício | Código | Status |
 |:-:|---|---|:-:|
@@ -74,8 +74,9 @@ Nova lista com cinco exercícios independentes. [Veja os exemplos e a explicaç�
 | 03 | Maior de três números | [Abrir Python](funcoes-e-modulos/exercicio03.py) | ✅ |
 | 04 | Escopo local e global | [Código e respostas](funcoes-e-modulos/exercicio04.py) | ✅ |
 | 05 | Cálculo de hipotenusa | [Abrir Python](funcoes-e-modulos/exercicio05.py) | ✅ |
+| 06 | Nota aleatória e situação do aluno | [Abrir Python](funcoes-e-modulos/exercicio06.py) | ✅ |
 
-**Progresso do módulo:** `█████` **5 / 5**
+**Atividades resolvidas:** `██████` **6 / 6**
 
 ---
 
