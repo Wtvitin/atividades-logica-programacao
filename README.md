@@ -63,20 +63,13 @@ No **Módulo 01**, cada exercício fica em sua própria pasta, contendo:
 
 ---
 
-## 🧩 Módulo 02 — Funções e Módulos
+## 🧩 Funções em Python — Atividade Prática
 
-Cinco exercícios independentes e uma atividade prática do material didático sobre funções. [Veja os exemplos e a explicação do exercício de escopo](funcoes-e-modulos/README.md).
+Atividade do material didático sobre definição de funções, parâmetros, retorno e uso do módulo `random`. [Veja a explicação e o exemplo de execução](funcoes-e-modulos/README.md).
 
-| # | Exercício | Código | Status |
-|:-:|---|---|:-:|
-| 01 | Arredondamento e raiz quadrada | [Abrir Python](funcoes-e-modulos/exercicio01.py) | ✅ |
-| 02 | Área do círculo | [Abrir Python](funcoes-e-modulos/exercicio02.py) | ✅ |
-| 03 | Maior de três números | [Abrir Python](funcoes-e-modulos/exercicio03.py) | ✅ |
-| 04 | Escopo local e global | [Código e respostas](funcoes-e-modulos/exercicio04.py) | ✅ |
-| 05 | Cálculo de hipotenusa | [Abrir Python](funcoes-e-modulos/exercicio05.py) | ✅ |
-| 06 | Nota aleatória e situação do aluno | [Abrir Python](funcoes-e-modulos/exercicio06.py) | ✅ |
-
-**Atividades resolvidas:** `██████` **6 / 6**
+| Exercício | Código | Status |
+|---|---|:-:|
+| Nota aleatória e situação do aluno | [Abrir Python](funcoes-e-modulos/exercicio06.py) | ✅ |
 
 ---
 
@@ -86,7 +79,7 @@ Cada exercício é independente. Execute com Python 3:
 
 ```bash
 python "Exercicio 01 - Soma de dois numeros/exercicio01.py"
-python funcoes-e-modulos/exercicio01.py
+python funcoes-e-modulos/exercicio06.py
 ```
 
 ---
