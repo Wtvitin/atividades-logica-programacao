@@ -67,9 +67,9 @@ No **Módulo 01**, cada exercício fica em sua própria pasta, contendo:
 
 Atividade do material didático sobre definição de funções, parâmetros, retorno e uso do módulo `random`. [Veja a explicação e o exemplo de execução](funcoes-e-modulos/README.md).
 
-| Exercício | Código | Status |
+| Atividade | Código | Status |
 |---|---|:-:|
-| Nota aleatória e situação do aluno | [Abrir Python](funcoes-e-modulos/exercicio06.py) | ✅ |
+| Nota aleatória e situação do aluno | [Abrir Python](funcoes-e-modulos/atividade_pratica.py) | ✅ |
 
 ---
 
@@ -79,7 +79,7 @@ Cada exercício é independente. Execute com Python 3:
 
 ```bash
 python "Exercicio 01 - Soma de dois numeros/exercicio01.py"
-python funcoes-e-modulos/exercicio06.py
+python funcoes-e-modulos/atividade_pratica.py
 ```
 
 ---
