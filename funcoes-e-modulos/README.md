@@ -6,12 +6,12 @@ Atividade do material didático **Plano de Aula e Material Didático: Funções 
 
 O programa usa `random` para gerar uma nota entre **0,0 e 10,0**, com uma casa decimal. A função `verificar_situacao(nota)` retorna **Aprovado** para nota a partir de **6,0** e **Reprovado** nos demais casos.
 
-🐍 [Abrir o código do exercício](exercicio06.py)
+🐍 [Abrir o código da atividade](atividade_pratica.py)
 
 Execute no terminal com Python 3:
 
 ```bash
-python funcoes-e-modulos/exercicio06.py
+python funcoes-e-modulos/atividade_pratica.py
 ```
 
 Exemplo de saída (a nota muda a cada execução):
