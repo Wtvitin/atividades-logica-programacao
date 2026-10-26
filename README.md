@@ -21,7 +21,7 @@
 | Fundamentos | Exercícios 01 a 15 | [Ver módulo](#-módulo-01--primeiros-algoritmos) |
 | Condicionais | Exercícios 16 a 35 | [Ver atividades](#-exercícios-1635--estruturas-condicionais) |
 | Funções e módulos | Lista complementar | [Ver atividades](#-lista-complementar--funções-e-módulos) |
-| Estruturas de dados | Introdução às tuplas | [Ver atividade](#-atividade-complementar--tuplas) |
+| Estruturas de dados | Introdução às tuplas | [Ver atividades](tuplas/README.md) |
 | Execução | Como executar os códigos | [Ver instruções](#️-como-rodar) |
 
 ---
@@ -129,14 +129,15 @@ Estudo introdutório sobre **tuplas em Python**, abordando imutabilidade, ordem,
 
 | Arquivo | Conteúdo | Situação |
 |---|---|---|
-| [`tuplas.py`](tuplas.py) | Exemplos de tuplas vazias, unitárias, numéricas, textuais, mistas e implícitas | Código publicado; execução ainda não registrada |
+| [Exercícios 01 e 02](tuplas/README.md) | Exemplos de tuplas vazias, unitárias, numéricas, textuais, mistas e implícitas | Arquivos separados; execução ainda não registrada |
 
-**Referência de estudo:** [OdaGab/Python — `tuplas.py`](https://github.com/OdaGab/Python/blob/main/tuplas.py), linhas 1 a 51. O arquivo mantém esse recorte do material original.
+**Referência de estudo:** [OdaGab/Python — `tuplas.py`](https://github.com/OdaGab/Python/blob/main/tuplas.py), linhas 1 a 51. As seções 1 e 2 estão separadas em arquivos independentes.
 
 Para executar:
 
 ```bash
-python tuplas.py
+python tuplas/exercicio01.py
+python tuplas/exercicio02.py
 ```
 
 ---
