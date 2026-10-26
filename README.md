@@ -8,8 +8,21 @@
 ![Status](https://img.shields.io/badge/status-em%20andamento-38BDF8?style=for-the-badge)
 ![Progresso](https://img.shields.io/badge/apostila-32%2F35-A78BFA?style=for-the-badge)
 ![Instituição](https://img.shields.io/badge/Faculdade-Impacta-14213D?style=for-the-badge)
+![Organização](https://img.shields.io/badge/atividades-organizadas-0F766E?style=for-the-badge)
 
 </div>
+
+---
+
+## Navegação rápida
+
+| Área de estudo | Conteúdo | Acesso |
+|---|---|---|
+| Fundamentos | Exercícios 01 a 15 | [Ver módulo](#-módulo-01--primeiros-algoritmos) |
+| Condicionais | Exercícios 16 a 35 | [Ver atividades](#-exercícios-1635--estruturas-condicionais) |
+| Funções e módulos | Lista complementar | [Ver atividades](#-lista-complementar--funções-e-módulos) |
+| Estruturas de dados | Introdução às tuplas | [Ver atividade](#-atividade-complementar--tuplas) |
+| Execução | Como executar os códigos | [Ver instruções](#️-como-rodar) |
 
 ---
 
@@ -110,6 +123,24 @@ Nova lista com cinco exercícios independentes. [Veja os exemplos e a explicaç�
 
 ---
 
+## Atividade complementar — Tuplas
+
+Estudo introdutório sobre **tuplas em Python**, abordando imutabilidade, ordem, índices e diferentes formas de criação.
+
+| Arquivo | Conteúdo | Situação |
+|---|---|---|
+| [`tuplas.py`](tuplas.py) | Exemplos de tuplas vazias, unitárias, numéricas, textuais, mistas e implícitas | Código publicado; execução ainda não registrada |
+
+**Referência de estudo:** [OdaGab/Python — `tuplas.py`](https://github.com/OdaGab/Python/blob/main/tuplas.py), linhas 1 a 51. O arquivo mantém esse recorte do material original.
+
+Para executar:
+
+```bash
+python tuplas.py
+```
+
+---
+
 ## ▶️ Como rodar
 
 Cada exercício é independente. Execute com Python 3:
@@ -118,12 +149,15 @@ Cada exercício é independente. Execute com Python 3:
 python "Exercicio 01 - Soma de dois numeros/exercicio01.py"
 python "Exercicio 16 - Positivo negativo ou zero/exercicio16.py"
 python funcoes-e-modulos/exercicio01.py
+python tuplas.py
 ```
 
 ---
 
 <div align="center">
 
-*Repositório de estudos — uso acadêmico.* 🎓
+**Lógica de Programação • Python • Atividades acadêmicas**
+
+Acompanhe a evolução das atividades pela aba [Commits](../../commits/master).
 
 </div>
