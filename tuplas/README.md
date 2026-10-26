@@ -6,6 +6,7 @@ As seções numeradas do arquivo de referência foram organizadas em exercícios
 |---|---|---|
 | 01 | Criando tuplas | [exercicio01.py](exercicio01.py) |
 | 02 | Acessando elementos | [exercicio02.py](exercicio02.py) |
+| 03 | Tuplas são imutáveis | [exercicio03.py](exercicio03.py) |
 
 ## Exercício 01 — Criando tuplas
 
@@ -35,6 +36,19 @@ Primeiro elemento: a
 Índice -2: d
 ```
 
+## Exercício 03 — Tuplas são imutáveis
+
+**Objetivo:** comprovar que tuplas não permitem substituir elementos nem usar o método `append()`.
+
+**Resolução:** o código cria a tupla `(1, 2, 3)` e tenta realizar duas operações inválidas, ambas tratadas com `try/except` para que o programa continue normalmente.
+
+| Tentativa | Resultado esperado | Motivo |
+|---|---|---|
+| `tupla[0] = 99` | `TypeError` | Atribuição a um elemento de tupla não é permitida |
+| `tupla.append(4)` | `AttributeError` | Tuplas não possuem o método `append` |
+
+A tupla original permanece `(1, 2, 3)`. Esses erros são **esperados e tratados**, não falhas da resolução.
+
 ## Como executar
 
 A partir da raiz do repositório:
@@ -42,6 +56,7 @@ A partir da raiz do repositório:
 ```bash
 python tuplas/exercicio01.py
 python tuplas/exercicio02.py
+python tuplas/exercicio03.py
 ```
 
 > Resultados esperados por leitura do código. A execução real ainda precisa ser confirmada.
